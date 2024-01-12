@@ -1,0 +1,13 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore debug files
+Debug/
+
+# Ignore user-specific files and settings
+*.suo
+*.user
+
+# Ignore Visual Studio Code settings
+.vscode/
