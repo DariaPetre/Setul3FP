@@ -1,0 +1,14 @@
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\bin\Debug\net6.0\Set3 ex13.exe
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\bin\Debug\net6.0\Set3 ex13.deps.json
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\bin\Debug\net6.0\Set3 ex13.runtimeconfig.json
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\bin\Debug\net6.0\Set3 ex13.dll
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\bin\Debug\net6.0\Set3 ex13.pdb
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.AssemblyInfoInputs.cache
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.AssemblyInfo.cs
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.csproj.CoreCompileInputs.cache
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.dll
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\refint\Set3 ex13.dll
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.pdb
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\Set3 ex13.genruntimeconfig.cache
+C:\Users\daria\OneDrive\Desktop\Setul 3 FP\Set3 ex13\Set3 ex13\obj\Debug\net6.0\ref\Set3 ex13.dll
